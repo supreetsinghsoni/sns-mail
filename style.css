@@ -1,0 +1,10 @@
+input{color:black;border-radius:10px;font-weight:bold;font-size:15px;width:210px;height:20px;}
+textarea{color:black;border-radius:10px;font-weight:bold;font-size:15px;width:210px;height:60px;}
+h1{color:black;}
+input:hover{background:grey}
+input[type=submit]:hover{background:grey}
+input[type=reset]:hover{background:grey}
+textarea:hover{background:grey}
+input[type=submit]{width:120px;height:30px}
+input[type=reset]{width:100px;height:30px}
+
