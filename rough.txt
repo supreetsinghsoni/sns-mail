@@ -1,0 +1,24 @@
+<?php
+
+
+
+session_start();
+       	if (isset($_POST['submit'])) {
+
+
+
+if ($_SESSION["otp"]  = $_POST['otp'];
+) {
+
+print ("Welcome back, friend!");
+
+}
+else {
+
+print ("You're not a member of this site");
+
+}
+
+}
+
+?>
